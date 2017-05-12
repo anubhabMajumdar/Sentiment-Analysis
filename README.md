@@ -36,7 +36,7 @@ for bag-of-word model.
 python word2vec.py
 ``
 for Word2vec model.
-* run 
+* Run 
 ``
 python doc2vec.py
 ``
